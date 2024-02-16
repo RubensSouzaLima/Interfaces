@@ -1,0 +1,14 @@
+C:\C#-Interfaces\Interfaces01\Interfaces01\bin\Debug\net7.0\Interfaces01.exe
+C:\C#-Interfaces\Interfaces01\Interfaces01\bin\Debug\net7.0\Interfaces01.deps.json
+C:\C#-Interfaces\Interfaces01\Interfaces01\bin\Debug\net7.0\Interfaces01.runtimeconfig.json
+C:\C#-Interfaces\Interfaces01\Interfaces01\bin\Debug\net7.0\Interfaces01.dll
+C:\C#-Interfaces\Interfaces01\Interfaces01\bin\Debug\net7.0\Interfaces01.pdb
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\Interfaces01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\Interfaces01.AssemblyInfoInputs.cache
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\Interfaces01.AssemblyInfo.cs
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\Interfaces01.csproj.CoreCompileInputs.cache
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\Interfaces01.dll
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\refint\Interfaces01.dll
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\Interfaces01.pdb
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\Interfaces01.genruntimeconfig.cache
+C:\C#-Interfaces\Interfaces01\Interfaces01\obj\Debug\net7.0\ref\Interfaces01.dll

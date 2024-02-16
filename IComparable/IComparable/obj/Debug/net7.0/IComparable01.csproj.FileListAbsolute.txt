@@ -1,0 +1,14 @@
+C:\C#-Interfaces\IComparable\IComparable\bin\Debug\net7.0\IComparable01.exe
+C:\C#-Interfaces\IComparable\IComparable\bin\Debug\net7.0\IComparable01.deps.json
+C:\C#-Interfaces\IComparable\IComparable\bin\Debug\net7.0\IComparable01.runtimeconfig.json
+C:\C#-Interfaces\IComparable\IComparable\bin\Debug\net7.0\IComparable01.dll
+C:\C#-Interfaces\IComparable\IComparable\bin\Debug\net7.0\IComparable01.pdb
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\IComparable01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\IComparable01.AssemblyInfoInputs.cache
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\IComparable01.AssemblyInfo.cs
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\IComparable01.csproj.CoreCompileInputs.cache
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\IComparable01.dll
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\refint\IComparable01.dll
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\IComparable01.pdb
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\IComparable01.genruntimeconfig.cache
+C:\C#-Interfaces\IComparable\IComparable\obj\Debug\net7.0\ref\IComparable01.dll
